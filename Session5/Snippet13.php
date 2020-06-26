@@ -1,0 +1,3 @@
+<?php
+ECHO $_SERVER['SERVER_PROTOCOL'];
+?>
